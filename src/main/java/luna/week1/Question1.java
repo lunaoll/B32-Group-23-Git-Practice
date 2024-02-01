@@ -7,5 +7,10 @@ public class Question1 {
         //test case 1 is added
 
         //more logic added
+
+
+
+
+        //add more tets case
     }
 }
